@@ -1,2 +1,2 @@
-# qubitQuestDotCom
+# qubitQuestDotTech
 My Quantum Computing Blog
